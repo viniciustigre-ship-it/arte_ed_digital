@@ -1,15 +1,15 @@
-:root{
+:root {
 
---cor-fundo: #f4f1ea;
---cor-texto:#222222;
---cor-principal: #1a5200;
---cor-segundaria:#3ec400;
---cor-hover:#51ff00;
---cor-superfície:white;
---cor-card:#3f8b1b;
---cor-legenda: #000000;
---cor-clara: #bcffb6;
---cor-rodape:#222222;
+    --cor-fundo: #f4f1ea;
+    --cor-texto: #222222;
+    --cor-principal: #1a5200;
+    --cor-segundaria: #3ec400;
+    --cor-hover: #51ff00;
+    --cor-superfície: white;
+    --cor-card: #3f8b1b;
+    --cor-legenda: #000000;
+    --cor-clara: #bcffb6;
+    --cor-rodape: #222222;
 
 }
 
@@ -119,7 +119,7 @@ button {
 
 }
 
-button:hover{
+button:hover {
     background-color: var(--cor-hover);
 
 }
